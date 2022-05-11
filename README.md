@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo ao meu perfil! Eu sou o Henrique Maximo.
+## Olá, seja bem-vindo ao meu perfil!
 
 
 - 🌱 Estudando: Node.Js; Java; Javascript; C++; React; React Native; Python; C sharp e MySQL Workbench.
