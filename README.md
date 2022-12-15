@@ -1,7 +1,7 @@
 
-<h1 align="center">Hello, welcome to the my profile!</h1>
+<h1 align="center">print(Hello, welcome to the my profile!)</h1>
 
-<p align="center">My names is Henrique Maximo, nice to meet you!</p>
+<p align="center">console.log(My names is Henrique Maximo, nice to meet you!)</p>
 <p align="center">
     <a href="https://www.linkedin.com/in/henrique-maximo/">LinkedIn 🚀</a>
 </p>
