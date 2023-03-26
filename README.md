@@ -5,8 +5,8 @@
 <img align="right" width="150" height="150" alt="gif" src="https://media.tenor.com/eyd_OC-btcQAAAAj/kawaii-anime.gif">
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrry-Maximo&show_icons=true&theme=github_dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrry-Maximo&theme=github_dark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Henrry-Maximo&show_icons=true&theme=github_dark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrry-Maximo&theme=github_dark">
 </div>
 
 ##
