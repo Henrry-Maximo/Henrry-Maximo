@@ -1,5 +1,5 @@
 
-<h1 align="center">print(Hello, welcome to the my profile!)</h1>
+<h1 align="center">print(Hello, welcome to my profile!)</h1>
 
 <p align="center">console.log(My names is Henrique Maximo, nice to meet you!)</p>
 <img align="right" width="150" height="150" alt="gif" src="https://media.tenor.com/eyd_OC-btcQAAAAj/kawaii-anime.gif">
