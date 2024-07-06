@@ -27,7 +27,7 @@ Interesse: <strong>Java, C++ e Ruby.</strong>
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="115px" alt="Rocketseat" src="https://albras.com/wp-content/uploads/2023/04/logo_albras_slogan.png"/>](https://albras.com/)
+[<img align="left" height="94px" width="125px" alt="Rocketseat" src="https://albras.com/wp-content/uploads/2023/04/logo_albras_slogan.png"/>](https://albras.com/)
 
 **FullStack Web Developer / HelpDesk (Jr)** \
 [**Albras**](https://albras.com/) • CLT \
