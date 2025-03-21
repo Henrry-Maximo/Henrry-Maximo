@@ -32,7 +32,12 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **FullStack Web Developer / HelpDesk (Jr)** \
 [**Albras**](https://albras.com/) • CLT \
 Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Node`, `React`, `Python` \
-Projetos em destaque:
+Projetos em destaque: 
+ <a href="https://github.com/Henrry-Maximo/dashboardWooCommerce">Dashboard WooCommerce</a> 
+ <span>||</span>
+ <a href="https://github.com/Henrry-Maximo/GLPI-Dashboard-Analytics">Dashboard GLPI Técnico</a>
+ <span>||</span>
+ <a href="https://github.com/Henrry-Maximo/loginGoogleAuthenticator">Sistema Web 2FA</a>
 <br/>
 <br/>
 
