@@ -5,8 +5,10 @@
 <img align='right' height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrry-Maximo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 <img align='right' height="150em" src="https://github-readme-stats.vercel.app/api?username=Henrry-Maximo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 <p>Atualmente trabalhando na Albras - TI<br/>
+ 
 Web Developer: <strong>JavaScript, TypeScript, Node.js, MySQL, Python, React, React Native e PHP.</strong>
 <br />
+
 Interesse: <strong>Java, C++ e Ruby.</strong>
 </p>
 
