@@ -2,26 +2,33 @@
 
 ### Olá, meu nome é Henrique Maximo!
 
-<img align='right' height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrry-Maximo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-<img align='right' height="150em" src="https://github-readme-stats.vercel.app/api?username=Henrry-Maximo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=Henrry-Maximo&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=2300" alt="Status do GitHub">
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrry-Maximo&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=2300">
 <p>Atualmente trabalhando na Albras - TI<br/>
  
-Web Developer: <strong>JavaScript, TypeScript, Node.js, MySQL, Python, React, React Native e PHP.</strong>
+Web Developer: <strong>JavaScript, TypeScript, Node.js, React, React Native, Python, PHP e MySQL.</strong>
 <br />
 
-Interesse: <strong>Java, C++ e Ruby.</strong>
+Atualmente: estudando <strong>C</strong> e explorando <strong>princípios de engenharia de software, arquitetura limpa e DDD</strong>.
 </p>
 
 <div align="center"><br>
- <img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
- <img alt="JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
- <img alt="NODEJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
- <img alt="TS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
- <img alt="REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <img alt="PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
- <img alt="MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </div>
+
+### Complementares
+React Native, Vite, Vitest, Swagger API, Express, Fastify, Zod, Day.js, Date-fns,  
+Radix UI, Styled Components, Shadcn/UI, Bootstrap, Chart.js, Solid.js, Moment.js,  
+Postman, Insomnia, Clean Architecture, DDD.
 
 ##
 
