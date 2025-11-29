@@ -1,10 +1,6 @@
 <h1 align="center">print("Hello, welcome to my profile!")<img align="center" height="50em" border-radius="0.70rem" alt="gif" src="https://media.tenor.com/eyd_OC-btcQAAAAj/kawaii-anime.gif"></h1>
 
 ### Olá, meu nome é Henrique Maximo!
-
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=Henrry-Maximo&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=2300" alt="Status do GitHub">
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrry-Maximo&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=2300">
-<p>Atualmente trabalhando na Albras - TI<br/>
  
 Web Developer: <strong>JavaScript, TypeScript, Node.js, React, React Native, Python, PHP e MySQL.</strong>
 <br />
