@@ -1,6 +1,4 @@
-## Henrique Máximo
-
-Developer Web Fullstack.
+## Developer Web Fullstack
 
 Trabalho com JavaScript/TypeScript em aplicações web.
 <br>
