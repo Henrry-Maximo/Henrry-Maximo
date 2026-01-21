@@ -1,9 +1,7 @@
-## Developer Web Fullstack
+## Fullstack Web Developer
 
-Trabalho com JavaScript/TypeScript em aplicações web.
-<br>
-Experiência prática em backend e frontend.
+Specialized in the **JavaScript/TypeScript** ecosystem for web and mobile applications, with practical experience in both backend and frontend.
 
-Estudando engenharia de software, arquitetura e C.
+Currently studying Software Engineering, Architecture, and **C**.
 
-LinkedIn: https://www.linkedin.com/in/henrique-maximo/
+[Connect on LinkedIn](https://www.linkedin.com/in/henrique-maximo/)
