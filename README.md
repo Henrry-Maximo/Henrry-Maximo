@@ -1,4 +1,4 @@
-## Fullstack Web Developer
+## Full Stack Developer | Backend-focused | Node.js & TypeScript
 
 Specialized in the **JavaScript/TypeScript** ecosystem for web and mobile applications, with practical experience in both backend and frontend.
 
