@@ -1,7 +1,7 @@
-## Full Stack Developer | Backend-focused | Node.js & TypeScript
+## Backend Developer | Node.js, TypeScript & Java
 
-Specialized in the **JavaScript/TypeScript** ecosystem for web and mobile applications, with practical experience in both backend and frontend.
+Backend-focused developer with practical experience building REST APIs, integrations, and system automation. Working primarily with the JavaScript/TypeScript ecosystem, while expanding my backend development skills with **Java and Spring Boot**.
 
-Currently studying System for Internet, Software Engineering, Language **C**, **Assembly** and **Bash**.
+Currently pursuing studies in **Software Engineering** and **Systems for Internet**, while exploring low-level programming with **C, Assembly, and Bash**.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/henrique-maximo/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/henrique-maximo/)
